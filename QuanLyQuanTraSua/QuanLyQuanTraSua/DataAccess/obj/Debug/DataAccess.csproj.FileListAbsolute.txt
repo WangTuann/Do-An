@@ -1,0 +1,8 @@
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\DataAccess\bin\Debug\DataAccess.dll
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\DataAccess\bin\Debug\DataAccess.pdb
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\DataAccess\obj\Debug\DataAccess.dll
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\DataAccess\obj\Debug\DataAccess.pdb
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\DataAccess\bin\Debug\Guna.UI2.dll
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete

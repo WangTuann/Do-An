@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7da9ca6-3884-45c7-9e03-745a87706111": {
+      "ProjectGuid": "a7da9ca6-3884-45c7-9e03-745a87706111",
+      "DisplayName": "Quản lý quán trà sữa",
+      "ColorIndex": 0
+    },
+    "6870035e-5196-4636-88bf-fc221d2e0eff": {
+      "ProjectGuid": "6870035e-5196-4636-88bf-fc221d2e0eff",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 1
+    },
+    "337a8b12-6da5-4f20-9ff0-db29d1187f10": {
+      "ProjectGuid": "337a8b12-6da5-4f20-9ff0-db29d1187f10",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 2
+    },
+    "00c0aeaa-fc67-41ad-a26d-a4567e1876c3": {
+      "ProjectGuid": "00c0aeaa-fc67-41ad-a26d-a4567e1876c3",
+      "DisplayName": "ĐataAccess",
+      "ColorIndex": 3
+    },
+    "5cb725d5-3a84-4702-8d48-d0561fc30129": {
+      "ProjectGuid": "5cb725d5-3a84-4702-8d48-d0561fc30129",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

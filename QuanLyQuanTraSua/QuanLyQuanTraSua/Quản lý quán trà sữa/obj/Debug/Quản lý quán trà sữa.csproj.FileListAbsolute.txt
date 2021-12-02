@@ -1,0 +1,45 @@
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\Quản lý quán trà sữa.exe.config
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\Quản lý quán trà sữa.exe
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\Quản lý quán trà sữa.pdb
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\Guna.UI2.dll
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.csproj.AssemblyReference.cache
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.Form1.resources
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.Properties.Resources.resources
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.csproj.GenerateResource.cache
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.csproj.CoreCompileInputs.cache
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.csproj.CopyComplete
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.exe
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.pdb
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmAccount.resources
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmCho.resources
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmMain.resources
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmQuanLyBanHang.resources
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmQuanLyMonAn.resources
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmThongKeNhanVien.resources
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmNhanVien.resources
+C:\Users\Kin\Desktop\New folder (2)\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmQuanLyHoaDon.resources
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\Quản lý quán trà sữa.exe.config
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\Quản lý quán trà sữa.exe
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\Quản lý quán trà sữa.pdb
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\Guna.UI2.dll
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.csproj.AssemblyReference.cache
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.csproj.SuggestedBindingRedirects.cache
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.Form1.resources
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmAccount.resources
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmCho.resources
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmQuanLyHoaDon.resources
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmMain.resources
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmNhanVien.resources
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmQuanLyMonAn.resources
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmThongKeNhanVien.resources
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.Properties.Resources.resources
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.csproj.GenerateResource.cache
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.csproj.CoreCompileInputs.cache
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.csproj.CopyComplete
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.exe
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản lý quán trà sữa.pdb
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\BusinessLogic.dll
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\DataAccess.dll
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\BusinessLogic.pdb
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\bin\Debug\DataAccess.pdb
+D:\file new\QuanLyQuanTraSua\QuanLyQuanTraSua\Quản lý quán trà sữa\obj\Debug\Quản_lý_quán_trà_sữa.frmTrangThaiBan.resources
