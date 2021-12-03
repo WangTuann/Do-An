@@ -52,7 +52,6 @@ namespace DataAccess
             if (result > 0) // Nếu thành công thì trả về ID đã thêm
                 return (int)cmd.Parameters["@MaLoai"].Value;
             return 0;
-
         }
     }
 }

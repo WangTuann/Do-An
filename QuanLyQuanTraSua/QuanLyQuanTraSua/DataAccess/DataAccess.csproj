@@ -45,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bill.cs" />
+    <Compile Include="BillDA.cs" />
+    <Compile Include="BillInfo.cs" />
     <Compile Include="LoaiNuocDA.cs" />
     <Compile Include="LoaiNuoc.cs" />
     <Compile Include="NuocUong.cs" />

@@ -102,7 +102,9 @@ namespace Quản_lý_quán_trà_sữa
 
 		private void btnDatMon_Click(object sender, EventArgs e)
 		{
-			openChildForm(new frmTrangThaiBan());
+			//openChildForm(new frmTrangThaiBan());
+			frmTrangThaiBan frm = new frmTrangThaiBan();
+			frm.ShowDialog();
 		}
 
 		private void btnChonMon_Click(object sender, EventArgs e)
